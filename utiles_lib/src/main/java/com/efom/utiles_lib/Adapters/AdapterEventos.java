@@ -1,5 +1,5 @@
 package com.efom.utiles_lib.Adapters;
-
+/*
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -34,4 +34,4 @@ public class AdapterEventos extends RecyclerView.Adapter<RecyclerViewHolder> {
         return eventos.size();
     }
 
-}
+}*/
