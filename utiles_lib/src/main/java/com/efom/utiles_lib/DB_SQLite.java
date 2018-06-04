@@ -11,6 +11,7 @@ public class DB_SQLite extends Constants_SQLite {
     SQLiteDatabase db;
 
 
+
     public DB_SQLite(Context context) {
         openHelper = OpenHelper.newInstance(context);
     }

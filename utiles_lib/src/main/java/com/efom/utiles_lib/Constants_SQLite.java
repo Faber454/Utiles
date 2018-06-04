@@ -4,6 +4,7 @@ public class Constants_SQLite {
     public final static String DB_NAME = "name_db";
     public final static String TABLE = "name_table";
 
+
     public final static String ID = "id";
     public final static String TITULO = "titulo";
     public final static String DESCRIPCION = "descripcion";

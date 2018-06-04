@@ -8,6 +8,7 @@ public class AdapterEventos /*extends RecyclerView.Adapter<RecyclerViewHolder> *
     public AdapterEventos (ArrayList<String[]> eventos){
         this.eventos = eventos;
     }
+
 /*
 
     @Override
