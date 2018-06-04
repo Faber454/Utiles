@@ -1,8 +1,8 @@
-package com.efom.utiles_lib;
+package com.efom.utiles_lib.SQLite;
 
 public class Constants_SQLite {
-    public final static String DB_NAME = "eventos_db";
-    public final static String TABLE = "eventos";
+    public final static String DB_NAME = "name_db";
+    public final static String TABLE = "name_table";
 
     public final static String ID = "id";
     public final static String TITULO = "titulo";

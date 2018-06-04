@@ -1,4 +1,4 @@
-package com.efom.utiles_lib;
+package com.efom.utiles_lib.SQLite;
 
 import android.content.Context;
 import android.database.Cursor;
