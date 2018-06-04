@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.View;
 import android.widget.TextView;
 
+//hola mundo
 */
 public class RecyclerViewHolder /*extends RecyclerView.ViewHolder */ {
     //public TextView tV_titulo, tV_descripcion, tV_hora;
