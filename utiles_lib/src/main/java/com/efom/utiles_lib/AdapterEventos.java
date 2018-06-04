@@ -10,7 +10,6 @@ public class AdapterEventos /*extends RecyclerView.Adapter<RecyclerViewHolder> *
     }
 
 /*
-
     @Override
     public RecyclerViewHolder onCreateViewHolder(ViewGroup AdapterEventos, int viewType) {
         View view = (CardView) LayoutInflater.from(AdapterEventos.getContext()).inflate(R.layout.card_eventos, AdapterEventos, false);
