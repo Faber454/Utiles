@@ -1,4 +1,4 @@
-package com.efom.utiles_lib.Adapters;
+package com.efom.utiles_lib;
 
 import java.util.ArrayList;
 

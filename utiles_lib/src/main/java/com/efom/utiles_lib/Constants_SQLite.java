@@ -1,4 +1,4 @@
-package com.efom.utiles_lib.SQLite;
+package com.efom.utiles_lib;
 
 public class Constants_SQLite {
     public final static String DB_NAME = "name_db";
