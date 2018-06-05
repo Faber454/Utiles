@@ -1,4 +1,4 @@
-package com.efom.utiles_lib;
+package com.efom.utiles_lib.Adapters;
 
 import android.view.View;
 
