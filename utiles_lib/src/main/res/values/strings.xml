@@ -46,16 +46,16 @@
 
 
     <string name="background_splash_xml">
-        <?xml version="1.0" encoding="utf-8"?>
-        <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-            <item
+        xml version="1.0" encoding="utf-8"?>
+        layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+            item
                 android:drawable="@drawable/gradient_fondos"/>
-            <item>
-                <bitmap
+            item>
+                bitmap
                     android:gravity="center"
                     android:src="@mipmap/ic_launcher" />
-            </item>
-        </layer-list>
+            /item>
+        /layer-list>
     </string>
     <string name="manifest">
         activity android:name=".SplashActivity"
